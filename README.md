@@ -26,4 +26,7 @@ Change out the source image and kernel values to play around with basic 3x3 kern
 | ----------- | ----------- |
 |![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/71236168/146035413-81ddced7-d738-4acd-b349-657057d1f0a2.jpg)| ![h_edge](https://user-images.githubusercontent.com/71236168/146035615-abc33235-37a3-4c84-9018-dbd0f6ee4c23.JPG)|
 
-
+#### Vertical Edge Detection
+| Output Image    | Kernel |
+| ----------- | ----------- |
+| ![Webp net-resizeimage (6)](https://user-images.githubusercontent.com/71236168/146037523-ca73e367-b667-4d3c-b752-d0727621f71e.jpg)|![vert_edge](https://user-images.githubusercontent.com/71236168/146037538-73be95f1-1aae-4439-b29c-c8d1d75c33a7.JPG) |
