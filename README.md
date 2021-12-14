@@ -3,18 +3,27 @@ Change out the source image and kernel values to play around with basic 3x3 kern
 
 ## Examples:
 #### Original Image
-![rivers](https://user-images.githubusercontent.com/71236168/146032475-29d7c538-95ed-4095-a41a-b0c7501a4dce.JPG)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/71236168/146033866-334f7d71-d018-4c9d-84b1-767c60f5c299.jpg)
 
-#### Blurred
-![rivers_blur](https://user-images.githubusercontent.com/71236168/146032545-56d3ecab-d46e-47fe-a4cb-271f1f88e74b.JPG)
+#### Box Blurred
+| Output Image    | Kernel |
+| ----------- | ----------- |
+| ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/71236168/146035020-b72b2996-9217-4f19-a8e7-a73de0bcafbc.jpg)|![blur_kernel](https://user-images.githubusercontent.com/71236168/146035878-f08a496d-b562-4702-89d6-9c41d2d1c615.JPG)|
 
 #### Embossed
-![rivers_emboss](https://user-images.githubusercontent.com/71236168/146032616-ac4cf227-ee5a-46d8-9265-a1e21e6ad51a.JPG)
+| Output Image    | Kernel |
+| ----------- | ----------- |
+| ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/71236168/146035176-658bd64c-ac4c-4175-8b0e-9c5e7c572fe9.jpg)| ![emboss](https://user-images.githubusercontent.com/71236168/146036220-e592de84-ac03-4557-8c41-f0ef74d2eda0.JPG)
+|
 
 #### Sharpened
-![rivers_sharpened](https://user-images.githubusercontent.com/71236168/146032667-493cb405-4664-452f-b012-99996769a8a6.JPG)
+| Output Image    | Kernel |
+| ----------- | ----------- |
+| ![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/71236168/146035307-58b131fb-284b-459c-9a93-3a7e062218ff.jpg)| ![sharpen](https://user-images.githubusercontent.com/71236168/146036475-56ece032-9bc1-4a8a-9fa3-f9f9d8df2715.JPG)|
 
 #### Horizontal Edge Detection
-![rivers_hedge](https://user-images.githubusercontent.com/71236168/146032632-c5a4fdcd-5398-4b2a-a454-bb3b0990b916.JPG)
+| Output Image    | Kernel |
+| ----------- | ----------- |
+|![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/71236168/146035413-81ddced7-d738-4acd-b349-657057d1f0a2.jpg)| ![h_edge](https://user-images.githubusercontent.com/71236168/146035615-abc33235-37a3-4c84-9018-dbd0f6ee4c23.JPG)|
 
 
